@@ -1,0 +1,7 @@
+name: FireworksInfiniteLauncher
+version: 1.0
+authors: [gaston147, KrafTeck666]
+website: http://www.vincentteam.fr
+depend: []
+main: fr.vincentteam.fireworksinfinitelauncher.FireworksInfiniteLauncher
+commands:
